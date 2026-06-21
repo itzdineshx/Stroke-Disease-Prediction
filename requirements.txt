@@ -7,3 +7,7 @@ xgboost
 gradio
 jupyter
 nbformat
+imbalanced-learn
+lightgbm
+catboost
+shap
